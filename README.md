@@ -4,7 +4,7 @@
 <ol>
   <li>Install the plugin</li>
   <li>Create an <a href="https://labs.aweber.com/docs">Aweber Developer</a> account</li>
-  <li>Create an Applicatio within your developer account</li>
+  <li>Create an Application within your developer account</li>
   <li>Head to your WordPress Admin panel and find the Wp Aweber settings page under the Settings menu.</li>
   <li>Copy your consumer key and consumer secret fromy your new application to the plugin fields.</li>
   <li>Save the changes</li>
